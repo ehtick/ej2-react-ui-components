@@ -2,6 +2,14 @@
 
 ## [Unreleased]
 
+## 33.2.3 (2026-04-21)
+
+### Dialog
+
+#### Bug Fixes
+
+- `#I829088` - Fixed an issue where the ESC key did not close the Dialog when preventFocus was set to true.
+
 ## 21.1.35 (2023-03-23)
 
 ### Tooltip

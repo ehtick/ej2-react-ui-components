@@ -2,6 +2,19 @@
 
 ## [Unreleased]
 
+## 33.2.3 (2026-04-21)
+
+### GanttChart
+
+#### Bug fixes
+
+- `#I821215` - The white space flash issue during scrolling with `enableVirtualization` and custom column templates has been resolved.
+- `#FB73516` - Resolved expand and collapse issues and resize handle flickering after expanding tasks when `enableMultiTaskbar` was enabled.
+
+#### Bug fix
+
+- `#FB73516` - Resolved expand and collapse issues and resize handle flickering after expanding tasks when `enableMultiTaskbar` was enabled.
+
 ## 33.1.49 (2026-04-14)
 
 ### GanttChart
