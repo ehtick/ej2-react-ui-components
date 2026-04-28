@@ -2,6 +2,14 @@
 
 ## [Unreleased]
 
+## 33.2.4 (2026-04-28)
+
+### Spreadsheet
+
+#### Bug fixes
+
+- `#I829459` - Issue with "exception occurs when rendering charts with discontinuous data ranges containing empty cells" has been resolved.
+
 ## 33.1.49 (2026-04-14)
 
 ### Spreadsheet

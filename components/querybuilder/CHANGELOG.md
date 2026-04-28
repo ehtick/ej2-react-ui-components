@@ -2,6 +2,14 @@
 
 ## [Unreleased]
 
+## 33.2.4 (2026-04-28)
+
+### QueryBuilder
+
+#### Bug Fixes
+
+- `#I807680` -  Fixed an issue where the validation tooltip disappeared when scrolling inside the QueryBuilder operator dropdown.
+
 ## 33.1.44 (2026-03-16)
 
 ### QueryBuilder
